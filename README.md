@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @richafltr
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-richafltr/richafltr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+👋 Hi, I’m @richafltr
+
+- 👀 I’m interested in building autonomous agents for learning, advancing AI technologies, and exploring the intersection of Quantum Physics with Machine Learning .
+- 🌱 I’m currently building LearnQuantum which generates specific information-rich animations to improve the human learning experience.
+- 💞️ I’m looking to collaborate on projects related to autonomous learning agents, AI, and other cutting-edge technologies.
+- 📫 Reach out to me via ["mailto: founder@learnquantum.co"].
+
+
+---
