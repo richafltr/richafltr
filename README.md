@@ -16,10 +16,16 @@ I am a physicist and AI engineer with a passion for pushing the boundaries of wh
 LearnQuantum is my latest project, where I'm working to infuse the next generation of AI models with deeper physical understanding. By integrating cutting-edge quantum mechanics and classical physics into the training process, I believe we can create AI systems that can reason about the world in fundamentally more powerful ways.
 
 This has applications in areas like:
-- Generative AI for games and entertainment
+- Physical Ingelligence in the next Generation of Models.
 - Simulation and optimization for deep tech industries
 - Robotic control and autonomous systems
 - Scientific discovery and theoretical physics
+
+
+https://github.com/richafltr/richafltr/assets/110571121/88350410-026e-4e37-8177-e3d1f9810327
+
+
+  
 
 ### Get Involved
 If you share my enthusiasm for the intersection of physics and AI, I'd love to connect. Whether you're a fellow researcher, an aspiring engineer, or just someone curious about these topics, I'm always eager to collaborate and learn from others.
