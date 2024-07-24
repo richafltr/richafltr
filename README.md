@@ -1,7 +1,4 @@
 
----
-
-Here is the extended markdown file:
 
 👋 Hi, I'm @richafltr
 - 👀 I'm interested in building at the intersection of Cutting Edge Physics and Generative AI.
