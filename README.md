@@ -10,7 +10,7 @@
 I am a physicist and AI engineer with a passion for pushing the boundaries of what is possible. My background is in quantum physics and machine learning, and I'm fascinated by the potential for these fields to converge and unlock new frontiers of innovation.
 
 ### LearnQuantum
-LearnQuantum is my latest project, where I'm working to infuse the next generation of AI models with deeper physical understanding. By integrating cutting-edge quantum mechanics and classical physics into the training process, I believe we can create AI systems that can reason about the world in fundamentally more powerful ways.
+LearnQuantum is my latest project, where I'm working to infuse the next generation of AI models with deeper physical understanding. By integrating the fundamental symmetries in physics in Language Models as a moment of truth effectively like compilers are to Programming Languages, I believe we can create AI systems that can reason about the world in fundamentally more powerful ways.
 
 This has applications in areas like:
 - Physical Ingelligence in the next Generation of Models.
