@@ -1,1 +1,1 @@
-Hi, I’m [Richa](https://www.richashvrma.com). I’m building QEM Labs, where we’re modernizing the Physics Simulation Stack and pushing the frontier of Physical AI at scale.
+Hi, I’m [Richa](https://www.richas.xyz). I'm building RL environments for AI to solve unsolved physics problems like Navier-Stokes.  Physics progress is stalled by our inability to get better data, compute & infer better models. Icosian is my attempt to accelerate this — by building the platform where frontier knowledge gets created, verified, and structured for AI training. 
